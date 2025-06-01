@@ -58,8 +58,6 @@ This project is an interactive sand simulation created using [p5.js](https://p5j
 [GitHub Profile](https://github.com/UsmanAli404) <!-- Add your GitHub link if available -->  
 A software engineering student passionate about creative coding, simulations, and interactive design.
 
----
-
 ## 📜 License
 
 This project is open-source and free to use. Attribution is appreciated.
