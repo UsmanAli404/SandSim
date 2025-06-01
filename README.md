@@ -6,7 +6,6 @@ This project is an interactive sand simulation created using [p5.js](https://p5j
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-%2300bcd4?style=for-the-badge&logo=p5.js&logoColor=white)](https://editor.p5js.org/Usman_Ali/full/BJpcsEywC)
 
----
 
 ## ✨ Features
 
@@ -16,7 +15,6 @@ This project is an interactive sand simulation created using [p5.js](https://p5j
 - **Brush tool**: Variable-size brush controlled by the mouse wheel.
 - **Minimal UI**: Clean look with a floating brush size label at the bottom-right corner.
 
----
 
 ## 🎮 Controls
 
@@ -26,7 +24,6 @@ This project is an interactive sand simulation created using [p5.js](https://p5j
 | 🔄 Scroll up/down      | Increase or decrease brush size          |
 | 🪟 Resize window       | Grid and canvas adjust automatically     |
 
----
 
 ## 📁 File Structure
 
@@ -35,7 +32,6 @@ This project is an interactive sand simulation created using [p5.js](https://p5j
 ├── README.md       // Project documentation (this file)
 ```
 
----
 
 ## 🔧 How It Works
 
@@ -46,7 +42,6 @@ This project is an interactive sand simulation created using [p5.js](https://p5j
   - If blocked, it tries to move diagonally down-left or down-right.
 - Particles have a hue that shifts with every placement, giving a colorful appearance.
 
----
 
 ## 🧠 Concepts Used
 
@@ -56,7 +51,6 @@ This project is an interactive sand simulation created using [p5.js](https://p5j
 - Responsive layout with `windowResized()`
 - Color manipulation with HSB color mode
 
----
 
 ## 🧑‍💻 Author
 
