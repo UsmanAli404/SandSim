@@ -58,7 +58,7 @@ This project is an interactive sand simulation created using [p5.js](https://p5j
 
 ---
 
-## 🧑‍🎨 Author
+## 🧑‍💻 Author
 
 **Usman Ali**  
 [GitHub Profile](https://github.com/UsmanAli404) <!-- Add your GitHub link if available -->  
